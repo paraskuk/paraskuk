@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Versatile Back-end Software Engineer with a passion for problem-solving and innovation and learning new languages.
+Versatile Back-end Software Engineer with a passion for problem-solving and learning new languages.
 
 ## 💻 Skills & Expertise
 
