@@ -25,6 +25,6 @@ Versatile Back-end Software Engineer with a passion for problem-solving and lear
 |-------------------------|--------------------------------------------|
 | Container Orchestration | Kubernetes                                 |
 | Operating Systems       | Linux, Windows                             |
-
+| Infrastructure as Code  | Terraform                                  |
 
 
