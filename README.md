@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-- 🔭 I’m currently working on EPAM as a Senior Software Engineer
+- 🔭 I’m currently working at EPAM as a Senior Software Engineer
 - 🌱 I’m currently learning Rust
 
 ## 🚀 About Me
