@@ -20,3 +20,11 @@ Versatile Back-end Software Engineer with a passion for problem-solving and lear
 | MATLAB      | R           |
 | SQL         | Shell       |
 
+### Tools & Technologies:
+| Category                | Tools                                      |
+|-------------------------|--------------------------------------------|
+| Container Orchestration | Kubernetes                                 |
+| Operating Systems       | Linux, Windows                             |
+
+
+
