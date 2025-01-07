@@ -30,4 +30,5 @@ Versatile Back-end Software Engineer with a passion for problem-solving and lear
 | Secrets Management        | Hashicorp Vault                            |
 | Monitoring & Observability| Prometheus, Grafana                        | 
 | Cloud Vendor              | Azure, AWS                                 |
-| CI/CD                     | GitLab, GitHub Actions                      |
+| CI/CD                     | GitLab, GitHub Actions                     |
+| APIs                      | REST, gRPC                                 |
