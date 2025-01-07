@@ -21,10 +21,13 @@ Versatile Back-end Software Engineer with a passion for problem-solving and lear
 | SQL         | Shell       |
 
 ### Tools & Technologies:
-| Category                | Tools                                      |
-|-------------------------|--------------------------------------------|
-| Container Orchestration | Kubernetes                                 |
-| Operating Systems       | Linux, Windows                             |
-| Infrastructure as Code  | Terraform                                  |
+| Category                  | Tools                                      |
+|---------------------------|--------------------------------------------|
+| Container Orchestration   | Kubernetes                                 |
+| Operating Systems         | Linux, Windows                             |
+| Infrastructure as Code    | Terraform                                  |
+| Containerization          | Docker                                     |
+| Secrets Management        | Hashicorp Vault                            |
+| Monitoring & Observability| Prometheus, Grafana                        | 
 
 
