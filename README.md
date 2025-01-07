@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
-- 🔭 Senior Software Engineer
-- 🌱 Learning Rust
+- 🔭 Working as a Senior Software Engineer
+- 🌱 Currently Learning Rust
 
 ## 🚀 About Me
 
