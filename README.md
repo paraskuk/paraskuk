@@ -29,5 +29,5 @@ Versatile Back-end Software Engineer with a passion for problem-solving and lear
 | Containerization          | Docker, Rancher                            |
 | Secrets Management        | Hashicorp Vault                            |
 | Monitoring & Observability| Prometheus, Grafana                        | 
-
+| Cloud Vendor              | Azure, AWS                                 |
 
