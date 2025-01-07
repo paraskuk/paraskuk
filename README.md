@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-- 🔭 Senior Software Engineer @ [epam](https://github.com/epam)
+- 🔭 Senior Software Engineer
 - 🌱 Learning Rust
 
 ## 🚀 About Me
