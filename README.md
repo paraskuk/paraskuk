@@ -32,3 +32,8 @@ Back-end Software Engineer with a passion for problem-solving and learning new l
 | Cloud Vendor              | Azure, AWS                                 |
 | CI/CD                     | GitLab, GitHub Actions                     |
 | APIs                      | REST, gRPC                                 |
+
+## Certifications
+
+- Linux Foundation, Kubernetes and Cloud Native Associate, 82%, Expires August 2nd 2026. [Certification Link](https://www.credly.com/badges/59c2c630-89dc-4b23-b4bf-897015b4ef9e/public_url)
+- Microsoft Azure AI-900 AI Fundamentals Certification, 918/1000, June 2024. [Certification Link](https://www.credly.com/badges/30e4bd76-1f8e-40d4-b508-15e0323fd659/linked_in_profile)
