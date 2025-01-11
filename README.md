@@ -32,6 +32,7 @@ Back-end Software Engineer with a passion for problem-solving and learning new l
 | Cloud Vendor              | Azure, AWS                                 |
 | CI/CD                     | GitLab, GitHub Actions                     |
 | APIs                      | REST, gRPC                                 |
+| UI Frameworks             | React JS                                   |
 
 ## 🎓 Certifications
 
