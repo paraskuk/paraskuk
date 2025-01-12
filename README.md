@@ -7,10 +7,6 @@
 
 Back-end Software Engineer with a passion for problem-solving and learning new languages.
 
-## 🌐 Website
-
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://paraskevasp.netlify.app/)
-
 ## 💻 Skills & Expertise
 
 ### Coding Languages:
@@ -43,3 +39,7 @@ Back-end Software Engineer with a passion for problem-solving and learning new l
 
 - Linux Foundation, Kubernetes and Cloud Native Associate [Certification Link](https://www.credly.com/badges/59c2c630-89dc-4b23-b4bf-897015b4ef9e/public_url)
 - Microsoft Azure AI-900 AI Fundamentals Certification [Certification Link](https://www.credly.com/badges/30e4bd76-1f8e-40d4-b508-15e0323fd659/linked_in_profile)
+
+## 🌐 Website
+
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://paraskevasp.netlify.app/)
