@@ -29,10 +29,11 @@ Back-end Software Engineer with a passion for problem-solving and learning new l
 | Containerization          | Docker, Rancher                            |
 | Secrets Management        | Hashicorp Vault                            |
 | Monitoring & Observability| Prometheus, Grafana                        | 
-| Cloud Vendor              | Azure, AWS                                 |
+| Cloud Vendors             | Azure, AWS                                 |
 | CI/CD                     | GitLab, GitHub Actions                     |
 | APIs                      | REST, gRPC                                 |
-| UI Frameworks             | React JS                                   |
+| UI Interface Libraries    | React JS                                   |
+| Dependency Injection      | Spring Boot                                |
 
 ## 🎓 Certifications
 
