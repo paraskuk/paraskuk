@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Back-end Software Engineer with a passion for problem-solving and learning new languages.
+Fullstack Software Engineer with a passion for problem-solving and learning new languages.
 
 ## 💻 Skills & Expertise
 
