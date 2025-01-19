@@ -34,6 +34,7 @@ Fullstack Software Engineer with a passion for problem-solving and learning new 
 | APIs                      | REST, gRPC                                 |
 | UI Interface Libraries    | React JS                                   |
 | Dependency Injection      | Spring Boot                                |
+| Web3                      | Web Assembly (some knowledge)              |
 
 ## 🎓 Certifications
 
