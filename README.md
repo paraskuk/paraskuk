@@ -20,7 +20,7 @@ Fullstack Software Engineer with a passion for problem-solving and learning new 
 | MATLAB      | R           |
 | SQL         | Shell       |
 
-### Tools & Technologies:
+### Experience in Specific Tools & Technologies:
 | Category                  | Tools                                      |
 |---------------------------|--------------------------------------------|
 | Container Orchestration   | Kubernetes                                 |
