@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 - 🔭 Working as a Senior Software Engineer (Python and Java) at EPAM Systems, London, UK
-- 🌱 Currently Learning Rust
+- 🌱 Rust Java Python 
 
 ## 🚀 About Me
 
