@@ -37,7 +37,7 @@ Fullstack Software Engineer with a passion for problem-solving and learning new 
 | Web3                      | Web Assembly (some knowledge)              |
 
 ## 🎓 Certifications
-
+- Azure Developer Associate (AZ-204) [Certification Link](https://learn.microsoft.com/api/credentials/share/en-us/ParaskevasParaskevas-3951/9B224B59E681F7F1?sharingId=74350F186C5B3400)
 - Linux Foundation, Kubernetes and Cloud Native Associate [Certification Link](https://www.credly.com/badges/59c2c630-89dc-4b23-b4bf-897015b4ef9e/public_url)
 - Microsoft Azure AI-900 AI Certification [Certification Link](https://www.credly.com/badges/30e4bd76-1f8e-40d4-b508-15e0323fd659/linked_in_profile)
 
