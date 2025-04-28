@@ -33,7 +33,7 @@ Fullstack Software Engineer with a passion for problem-solving and learning new 
 | Cloud Vendors             | Azure, AWS                                 |
 | CI/CD                     | GitLab, GitHub Actions                     |
 | APIs                      | REST, gRPC                                 |
-| UI Interface Libraries    | React JS                                   |
+| UI Libraries              | React JS                                   |
 | Dependency Injection      | Spring Boot                                |
 | Web3                      | Web Assembly (some knowledge)              |
 
