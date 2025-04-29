@@ -19,7 +19,7 @@ Fullstack Software Engineer with a passion for problem-solving and learning new 
 | CSS         | PHP         |
 | MATLAB      | R           |
 | SQL         | Shell       |
-| Go          |             
+| Go          |             |
 
 ### Experience in Specific Tools & Technologies:
 | Category                  | Tools                                      |
