@@ -35,7 +35,7 @@ Fullstack Software Engineer with a passion for problem-solving and learning new 
 | APIs                      | REST, gRPC                                 |
 | UI Libraries              | React JS                                   |
 | Dependency Injection      | Spring Boot                                |
-| Web3                      | Web Assembly (some knowledge)              |
+| Web3                      | Web Assembly                               |
 
 ## 🎓 Certifications
 - Azure Developer Associate (AZ-204) [Certification Link](https://learn.microsoft.com/api/credentials/share/en-us/ParaskevasParaskevas-3951/9B224B59E681F7F1?sharingId=74350F186C5B3400)
