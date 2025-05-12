@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-- 🔭 Working as a Senior Software Engineer (Python and Java).
+- 🔭 Senior Software Engineer (Python and Java).
 - 🌱 Rust
 
 ## 🚀 About Me
