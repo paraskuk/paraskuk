@@ -19,7 +19,6 @@ Senior Software Engineer with a passion for problem-solving and learning new lan
 | CSS         | PHP         |
 | MATLAB      | R           |
 | SQL         | Shell       |
-| Go (Golang) |             |
 
 ### Experience in Specific Tools & Technologies:
 | Category                  | Tools                                      |
