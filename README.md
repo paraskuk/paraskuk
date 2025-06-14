@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Fullstack Software Engineer with a passion for problem-solving and learning new languages.
+Senior Software Engineer with a passion for problem-solving and learning new languages.
 
 ## 💻 Skills & Expertise
 
