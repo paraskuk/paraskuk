@@ -20,7 +20,7 @@ Senior Software Engineer with a passion for problem-solving and learning new lan
 | MATLAB      | R           |
 | SQL         | Shell       |
 
-### Experience in Specific Tools & Technologies:
+### Experience and Familiarity in Specific Tools & Technologies :
 | Category                  | Tools                                      |
 |---------------------------|--------------------------------------------|
 | Container Orchestration   | Kubernetes                                 |
