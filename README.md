@@ -43,4 +43,4 @@ Senior Software Engineer with a passion for problem-solving and learning new lan
 
 ## 🌐 Website
 
-[![Website](https://img.shields.io/badge/Website-visit-blue)](https://paraskevasp.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-visit-blue)]([https://paraskevasp.netlify.ap](https://paraskevas.dev/)
