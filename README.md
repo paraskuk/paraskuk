@@ -25,11 +25,11 @@ Senior Software Engineer with a passion for problem-solving and learning new lan
 |---------------------------|--------------------------------------------|
 | Container Orchestration   | Kubernetes                                 |
 | Operating Systems         | Linux, Windows                             |
-| Infrastructure as Code    | Terraform                                  |
+| Infrastructure as Code    | Terraform, Cloudformation                  |
 | Containerization          | Docker, Rancher                            |
-| Secrets Management        | Hashicorp Vault                            |
-| Monitoring & Observability| Prometheus, Grafana                        | 
-| Cloud Vendors             | Azure, AWS                                 |
+| Secrets Management        | AWS Secrets Manager, Hashicorp Vault       |
+| Monitoring & Observability| Cloudwatch , Prometheus, Grafana           | 
+| Cloud Vendors             | AWS,Azure                                  |
 | CI/CD                     | GitLab, GitHub Actions                     |
 | APIs                      | REST, gRPC                                 |
 | Front-end / Back-end Libs | React JS, Node.js                          |
